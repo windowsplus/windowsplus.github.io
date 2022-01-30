@@ -1,0 +1,56 @@
+[
+    {
+        "name": "이성호",
+        "year": 1,
+        "class": 1,
+        "birth": "820709"
+    },
+    {
+        "name": "기혜연",
+        "year": 1,
+        "class": 2,
+        "birth": "820709"
+    },
+    {
+        "name": "이승연",
+        "year": 1,
+        "class": 3,
+        "birth": "333333"
+    },
+    {
+        "name": "기혜진",
+        "year": 2,
+        "class": 1,
+        "birth": "55555"
+    },
+    {
+        "name": "김영희",
+        "year": 2,
+        "class": 2,
+        "birth": "66666"
+    },
+    {
+        "name": "liz",
+        "year": 2,
+        "class": 3,
+        "birth": "777777"
+    },
+    {
+        "name": "이주원",
+        "year": 3,
+        "class": 1,
+        "birth": "888888"
+    },
+    {
+        "name": "이태수",
+        "year": 3,
+        "class": 2,
+        "birth": "999999"
+    },
+    {
+        "name": "김중",
+        "year": 3,
+        "class": 3,
+        "birth": "1111111"
+    } 
+]
