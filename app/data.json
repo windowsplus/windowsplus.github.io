@@ -1,30 +1,30 @@
 [
     {
-        "name": "이성호",
+        "name": "lee",
         "year": 1,
         "class": 1,
         "birth": "820709"
     },
     {
-        "name": "기혜연",
+        "name": "ki",
         "year": 1,
         "class": 2,
         "birth": "820709"
     },
     {
-        "name": "이승연",
+        "name": "shh",
         "year": 1,
         "class": 3,
         "birth": "333333"
     },
     {
-        "name": "기혜진",
+        "name": "ki2",
         "year": 2,
         "class": 1,
         "birth": "55555"
     },
     {
-        "name": "김영희",
+        "name": "kim",
         "year": 2,
         "class": 2,
         "birth": "66666"
@@ -36,7 +36,7 @@
         "birth": "777777"
     },
     {
-        "name": "이주원",
+        "name": "ju",
         "year": 3,
         "class": 1,
         "birth": "888888"
@@ -48,7 +48,7 @@
         "birth": "999999"
     },
     {
-        "name": "김중",
+        "name": "joun",
         "year": 3,
         "class": 3,
         "birth": "1111111"
