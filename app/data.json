@@ -1,55 +1,55 @@
 [
     {
         "name": "lee",
-        "year": 1,
+        "years": 1,
         "class": 1,
         "birth": "820709"
     },
     {
         "name": "ki",
-        "year": 1,
+        "years": 1,
         "class": 2,
         "birth": "820709"
     },
     {
         "name": "shh",
-        "year": 1,
+        "years": 1,
         "class": 3,
         "birth": "333333"
     },
     {
         "name": "ki2",
-        "year": 2,
+        "years": 2,
         "class": 1,
         "birth": "55555"
     },
     {
         "name": "kim",
-        "year": 2,
+        "years": 2,
         "class": 2,
         "birth": "66666"
     },
     {
         "name": "lee",
-        "year": 2,
+        "years": 2,
         "class": 3,
         "birth": "777777"
     },
     {
         "name": "ju",
-        "year": 3,
+        "years": 3,
         "class": 1,
         "birth": "888888"
     },
     {
         "name": "이태수",
-        "year": 3,
+        "years": 3,
         "class": 2,
         "birth": "999999"
     },
     {
         "name": "joun",
-        "year": 3,
+        "years": 3,
         "class": 3,
         "birth": "1111111"
     } 
