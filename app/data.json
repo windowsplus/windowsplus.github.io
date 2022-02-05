@@ -2,55 +2,55 @@
     {
         "name": "lee",
         "years": 1,
-        "class": 1,
+        "cl": 1,
         "birth": "820709"
     },
     {
         "name": "ki",
         "years": 1,
-        "class": 2,
+        "cl": 2,
         "birth": "820709"
     },
     {
         "name": "shh",
         "years": 1,
-        "class": 3,
+        "cl": 3,
         "birth": "333333"
     },
     {
         "name": "ki2",
         "years": 2,
-        "class": 1,
+        "cl": 1,
         "birth": "55555"
     },
     {
         "name": "kim",
         "years": 2,
-        "class": 2,
+        "cl": 2,
         "birth": "66666"
     },
     {
         "name": "lee",
         "years": 2,
-        "class": 3,
+        "cl": 3,
         "birth": "777777"
     },
     {
         "name": "ju",
         "years": 3,
-        "class": 1,
+        "cl": 1,
         "birth": "888888"
     },
     {
         "name": "이태수",
         "years": 3,
-        "class": 2,
+        "cl": 2,
         "birth": "999999"
     },
     {
         "name": "joun",
         "years": 3,
-        "class": 3,
+        "cl": 3,
         "birth": "1111111"
     } 
 ]
